@@ -53,9 +53,10 @@ heroku 可以通过关联 GitHub 账号，直接部署 GitHub 账号下的项目
         下载nodejs并安装。[下载页面](http://nodejs.cn/download/)
 
     * Mac:
-        打开Terminal (command + space, 输入terminal)
-        安装brew: `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-        安装nodejs: `brew install node`
+
+        打开Terminal (command + space, 输入terminal)  
+        安装brew: `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`  
+        安装nodejs: `brew install node`  
 
 2. [下载](https://github.com/ovsoil/shadowsocks-for-heroku/archive/master.zip) 本项目，并解压到一个指定目录。
 建议解压到用户目录下(Mac也是类似的解压到与`下载`等目录同级的位置)，如下图所示：
